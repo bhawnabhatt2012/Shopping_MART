@@ -1,0 +1,30 @@
+Item Name : iPhone 7 Plus
+Product Description : 5.5 inch, Full HD, iOS 10, 128GB
+Price : 60999
+Count : 2
+Index : 1
+Item Name : iPhone 7
+Product Description : 4.7 inch, iOS 10, 128GB
+Price : 50999
+Count : 2
+Index : 2
+Item Name : Macbook Pro 15” with touch bar
+Product Description : 2016 Macbook Pro, 256GB, Core i7, 16GB Ram
+Price : 189999
+Count : 1
+Index : 3
+Item Name : Macbook Pro 13” with touch bar
+Product Description : 2016 Macbook Pro, 128GB, Core i7, 8GB Ram
+Price : 139999
+Count : 1
+Index : 4
+Item Name : Xperia XZ Premium
+Product Description : 4K, Snapdragon 835, 4GB Ram, 64GB
+Price : 59999
+Count : 1
+Index : 5
+Item Name : Xperia XZs
+Product Description : 1080p, Snapdragon 821, 4GB Ram, 64GB
+Price : 49999
+Count : 0
+Index : 6
